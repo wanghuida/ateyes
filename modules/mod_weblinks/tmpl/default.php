@@ -18,8 +18,10 @@ defined('_JEXEC') or die;
 	{
 		case 1:
 			// open in a new window
-			echo '<a href="'. $link .'" target="_blank" rel="'.$params->get('follow', 'nofollow').'">'.
-			htmlspecialchars($item->title, ENT_COMPAT, 'UTF-8') .'</a>';
+			//echo '<a href="'. $link .'" target="_blank" rel="'.$params->get('follow', 'nofollow').'">'.
+			//htmlspecialchars($item->title, ENT_COMPAT, 'UTF-8') .'</a>';
+            $images = json_decode($item->images);
+            echo "<a href='{$link}' target='_blank'><img width='90' src='{$images->image_first}' /></a>&nbsp;&nbsp;&nbsp;<a href='{$link}' >$item->title</a>";
 			break;
 
 		case 2:

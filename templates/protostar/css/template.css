@@ -6425,3 +6425,7 @@ h6 {
 .article-info dd {
     display: inline-block;
 }
+.weblinks li {
+    list-style-type: none;
+    margin-bottom: 4px;
+}
