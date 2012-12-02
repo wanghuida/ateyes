@@ -34,5 +34,6 @@ foreach($this->intro_items as $item){
 <?php
 }
 ?>
+<div style="clear:left" ></div>
 </div>
 
