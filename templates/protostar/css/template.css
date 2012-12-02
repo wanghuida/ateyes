@@ -6429,3 +6429,21 @@ h6 {
     list-style-type: none;
     margin-bottom: 4px;
 }
+.blog2 ul {
+    list-style-type: none; 
+    border: 1px solid #ddd;
+    margin: 5px;
+    padding: 5px;
+    width: 173px;
+    float:left;
+}
+.blog2 li {
+    text-align: center;
+}
+.blog2 li.t {
+    padding-top: 5px;
+}
+.blog2 img {
+    width:173px;
+    height:173px;
+}
