@@ -179,7 +179,8 @@ a:hover {
 .navbar-static-top .container,
 .navbar-fixed-top .container,
 .navbar-fixed-bottom .container {
-	width: 940px;
+    /* huida */
+	/*width: 940px;*/
 }
 .span12 {
 	width: 940px;
@@ -4746,7 +4747,8 @@ a.badge:hover {
 	.navbar-static-top .container,
 	.navbar-fixed-top .container,
 	.navbar-fixed-bottom .container {
-		width: 940px;
+        /* huida */
+		/*width: 940px;*/
 	}
 	.span12 {
 		width: 940px;
@@ -6070,7 +6072,8 @@ select[size] {
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
 }
 .container {
-	max-width: 960px;
+    /* huida */
+	max-width: 1050px;
 }
 .body .container {
 	background-color: #fff;
