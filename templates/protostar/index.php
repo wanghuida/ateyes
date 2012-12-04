@@ -149,7 +149,7 @@ else
 			<div class="navigation">
 				<jdoc:include type="modules" name="position-1" style="none" />
 			</div>
-            <iframe name="alimamaifrm" frameborder="0" marginheight="0" marginwidth="0" border="0" scrolling="no" width="100%" height="30" src="http://www.taobao.com/go/app/tbk_app/chongzhi_950_30_nologo.php?pid=mm_32662861_3430368_11113965&page=chongzhi_950_30_nologo.php&size_w=950&size_h=30&stru_phone=1&stru_game=1&stru_travel=1" ></iframe>
+            <iframe name="alimamaifrm" frameborder="0" marginheight="0" marginwidth="0" border="0" scrolling="no" width="1050" height="30" src="http://www.taobao.com/go/app/tbk_app/chongzhi_950_30_nologo.php?pid=mm_32662861_3430368_11114056&page=chongzhi_950_30_nologo.php&size_w=1050&size_h=30&stru_phone=1&stru_game=1&stru_travel=1&size_cat=cst" ></iframe>
 			<?php endif; ?>
 			<jdoc:include type="modules" name="banner" style="xhtml" />
 			<div class="row-fluid">
